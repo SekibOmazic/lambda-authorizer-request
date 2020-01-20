@@ -1,0 +1,10 @@
+{
+  "name": "public",
+  "version": "1.0.0",
+  "description": "public lambda function",
+  "main": "app.js",
+  "repository": "https://github.com/SekibOmazic/lambda-authorizer-request",
+  "author": "Sekib Omazic",
+  "license": "MIT",
+  "scripts": {}
+}
